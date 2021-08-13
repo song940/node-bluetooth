@@ -13,4 +13,5 @@ psd
 thumb
 sketch
 build/
-prebuilds/
+Release/
+
